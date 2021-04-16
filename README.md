@@ -11,4 +11,4 @@ This is Quiz Application with Functionalities like
    d.if time limit crosses then also -5 marks
  5.and last show the result
  
- /* Most Important thing is  here,i am not creating database i am  importing data base  and using in asset.
+ /* Most Important thing is  here,i am not creating database i am  importing data base  and using in asset.*/
